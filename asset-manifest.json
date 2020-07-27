@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/counter-redux/static/css/main.1b64581d.chunk.css",
+    "main.js": "/counter-redux/static/js/main.a437d20c.chunk.js",
+    "main.js.map": "/counter-redux/static/js/main.a437d20c.chunk.js.map",
+    "runtime-main.js": "/counter-redux/static/js/runtime-main.abef93c9.js",
+    "runtime-main.js.map": "/counter-redux/static/js/runtime-main.abef93c9.js.map",
+    "static/css/2.fb67120b.chunk.css": "/counter-redux/static/css/2.fb67120b.chunk.css",
+    "static/js/2.cc343ed4.chunk.js": "/counter-redux/static/js/2.cc343ed4.chunk.js",
+    "static/js/2.cc343ed4.chunk.js.map": "/counter-redux/static/js/2.cc343ed4.chunk.js.map",
+    "index.html": "/counter-redux/index.html",
+    "precache-manifest.32fab2a0c3850a84a428f64ba842ae47.js": "/counter-redux/precache-manifest.32fab2a0c3850a84a428f64ba842ae47.js",
+    "service-worker.js": "/counter-redux/service-worker.js",
+    "static/css/2.fb67120b.chunk.css.map": "/counter-redux/static/css/2.fb67120b.chunk.css.map",
+    "static/css/main.1b64581d.chunk.css.map": "/counter-redux/static/css/main.1b64581d.chunk.css.map",
+    "static/js/2.cc343ed4.chunk.js.LICENSE.txt": "/counter-redux/static/js/2.cc343ed4.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/counter-redux/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abef93c9.js",
+    "static/css/2.fb67120b.chunk.css",
+    "static/js/2.cc343ed4.chunk.js",
+    "static/css/main.1b64581d.chunk.css",
+    "static/js/main.a437d20c.chunk.js"
+  ]
+}
